@@ -1,0 +1,3 @@
+R5T.T0082.Construction - Construction project for IConfigurationSource marker interface and attribute for identifying configuration source types. .
+
+GOALS:
